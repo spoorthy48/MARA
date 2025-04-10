@@ -1,0 +1,4 @@
+autogen
+scholarly
+python-dotenv
+streamlit
