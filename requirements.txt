@@ -2,3 +2,4 @@ autogen
 scholarly
 python-dotenv
 streamlit
+requests
